@@ -1,5 +1,7 @@
 # NBA_Draft_Prediction
 
+![image](https://github.com/user-attachments/assets/3aa45c9f-a006-4d31-ba54-47e883aa017a)
+
 As the 2024 NBA draft begins tonight, the buzz around potential future stars reaches a fever pitch. Whether you’re a die-hard basketball fan, a fantasy league enthusiast, or a data science lover, the intrigue of predicting the next big stars is undeniable.
 
 I delve deep into the heart of my latest project: a predictive model designed to forecast the outcome of the 2024 NBA draft. Utilizing my own scraper to scrape the historical Draft Combine data from 2000 to 2023 (https://www.nba.com/stats/draft/combine-anthro) and developing machine-learning models to train the historical data, I made my own prediction on this year's NBA draft.
