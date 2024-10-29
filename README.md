@@ -11,3 +11,15 @@ One of the most exciting things about this year's draft is that Bronny James, so
 However, to be honest, I think these two predictions are not accurate at all since there are several drawbacks to the datasets and the models. First of all, Draft Combine data are not intuitive variables for predicting the draft pick since the NBA teams and scouts are not only focused on draft combine but also on players’ game statistics and potential talent. Also, the method of computing the missing value might not be the best way to reflect the true capabilities of the players and it might mislead the models. Overall, it is an interesting exercise to dive into the magic of sports analytics, and I believe the model will be more developed in the future. 😀 
 
 The figures below are a glimpse of my regression and random forest model prediction. If you want to check the draft prediction of the overall draft class of 2024, welcome to find out more in my blog at Medium (https://medium.com/@michae1420000507) 😎
+
+## Regression Prediction:
+![image](https://github.com/user-attachments/assets/a465058f-99b1-47b1-955c-bee35f24ee1e)
+
+## Tree Prediction:
+![image](https://github.com/user-attachments/assets/4e0fc847-de3d-4bbe-9bd3-b6200f06be0c)
+
+## Prediction on Bronny James
+![image](https://github.com/user-attachments/assets/47352af4-5e3c-42e5-a8ad-0fb8f14e94cf)
+![image](https://github.com/user-attachments/assets/aa4f89cd-8950-4e81-9259-b9d8ed57f693)
+
+
